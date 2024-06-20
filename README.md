@@ -319,11 +319,23 @@ https://kosis.kr/search/search.do?query=%ED%8F%90%EA%B8%B0%EB%AC%BC%C2%A0%EB%B0%
 ![미세먼지지도](./public/img/lee.gif)
 
 - - -
-+ 로그인구현
-  + oracle SQL 과 연결하여, 리액트로 로그인구현. 
++ 로그인,마이페이지 구현
+  + oracle SQL 과 연결하여, 리액트로 로그인,마이페이지 구현.
+  +  ![image](https://github.com/LEEJIWOOE/project4/assets/153358246/fa7d63a0-8bbc-4afa-9598-47bc741098cc)
+  +  ![image](https://github.com/LEEJIWOOE/project4/assets/153358246/fb0e67c4-6be5-4a5b-864d-e1a605c7054c)
+    
++ 마일리지 구현
+  +![image](https://github.com/LEEJIWOOE/project4/assets/153358246/1a61291b-d6a8-41f7-8640-2ebe9a4bbbfa)
+  +![image](https://github.com/LEEJIWOOE/project4/assets/153358246/c9cb11af-d6dc-44e9-811d-3432cc0c0443)
+
++ 게시판 기능 구현
+   + 글 수정과 삭제는 본인만 가능 (버튼숨김)
+     ![image](https://github.com/LEEJIWOOE/project4/assets/153358246/58324ab4-bf08-4fe4-afd4-6699184c12ef) - 본인일때
+     ![image](https://github.com/LEEJIWOOE/project4/assets/153358246/2f64e126-74eb-43bb-a009-f896f871b410) - 본인 아닐때
+
 ## 차후 개선 포인트
 + 전반적인 UI 리뉴얼
-+ 회원가입 및 마이페이지 추가예정
++ 회원가입 추가예정
 + 버스길찾기에서 현위치~클릭위치까지의 버스노선만 나오게 수정예정
 
 - - -
@@ -341,3 +353,4 @@ react-bootstrap
 공공데이터포털_전국재활용센터표준데이터(https://www.data.go.kr/data/15021108/standard.do)  
 공공데이터포털-서울특별시_노선정보조회서비스(https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15000193)
 공공데이터포털-서울특별시_대중교통환승경로 조회 서비스(https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15000414)
+공공데이터포털 한국환경공단_에어코리아_대기오염정보(https://www.data.go.kr/iim/api/selectAPIAcountView.do)
