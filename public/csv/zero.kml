@@ -1,0 +1,3309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>지도_전국 제로웨이스트숍</name>
+    <description/>
+    <Style id="icon-1502-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-006064-labelson">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>제로마켓</name>
+      <Placemark>
+        <name>남현점(베러얼스)</name>
+        <description><![CDATA[11:00~21:00<br>사당역 5번 출구<br>지하 1층 무빙워크 하향선 앞]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            126.9824267,37.4713883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>신구로점(프렌들리랩)</name>
+        <description><![CDATA[10:30~21:00<br>구로역 1번 출구<br>지하 1층 식품관 에스컬레이터 앞 ]]></description>
+        <styleUrl>#icon-1502-9C27B0</styleUrl>
+        <Point>
+          <coordinates>
+            126.8826056,37.5009121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>서울</name>
+      <Placemark>
+        <name>서울_1.5도씨</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 화-일 10:00-20:00, 월요일,공휴일 휴무<br>○ https://www.instagram.com/1.5_do_c<br>○ 010-9201-9173 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 화-일 10:00-20:00, 월요일,공휴일 휴무
+○ https://www.instagram.com/1.5_do_c
+○ 010-9201-9173 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9126295,37.4835316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_30밀리스토어 서울숲점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 10:30-19:30 연중무휴<br>○ https://www.30ml/store/<br>○ 070-7585-7080<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 10:30-19:30 연중무휴
+○ https://www.30ml/store/
+○ 070-7585-7080
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.046838,37.5468332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_공방 꽃피는삼월에</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 비누공방<br>○ 화-일 10:30-20:00, 월요일,공휴일 휴무<br>○ https://kswsoap.shopby.co.kr/<br>○ 02-511-5365<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 비누공방
+○ 화-일 10:30-20:00, 월요일,공휴일 휴무
+○ https://kswsoap.shopby.co.kr/
+○ 02-511-5365
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0482981,37.5742159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_대안생활 공기</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월,화,목 10:00-18:00, 수,금 12:00-19:00, 토 10:00-17:00, 일요일, 공휴일 휴무<br>○ www.instagram.com/gonggi_2020<br>○ 010-9948-0716<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월,화,목 10:00-18:00, 수,금 12:00-19:00, 토 10:00-17:00, 일요일, 공휴일 휴무
+○ www.instagram.com/gonggi_2020
+○ 010-9948-0716
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1270938,37.5515473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_더피커</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 리필스테이션<br>○ 화-토: 12:00-19:00<br>○ https://thepicker.net/<br>○ 070-4118-0710<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 리필스테이션
+○ 화-토: 12:00-19:00
+○ https://thepicker.net/
+○ 070-4118-0710
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0441053,37.5478789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_덕분愛</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-토: 12:00-20:00, 일요일, 공휴일 휴무<br>○ www.thanksto.co.kr<br>○ 02-6959-4479<br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-토: 12:00-20:00, 일요일, 공휴일 휴무
+○ www.thanksto.co.kr
+○ 02-6959-4479</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0234844,37.4969088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_도너리by노플맘</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금: 10:00-16:00<br>○ https://www.instagram.com/nopl_mom<br>○ 070-8955-7002<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금: 10:00-16:00
+○ https://www.instagram.com/nopl_mom
+○ 070-8955-7002
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9050421,37.4476756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_도돌이</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 12:00-20:00, 토 11:00-18:00<br>○ https://www.instagram.com/cafe_neighbor/<br>○ 010-9898-1648 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 12:00-20:00, 토 11:00-18:00
+○ https://www.instagram.com/cafe_neighbor/
+○ 010-9898-1648 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9280955,37.5799542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_무포장가게새록 36.5노원점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 사회적경제기업제품 복합전시 판매장<br>○ 10:00-19:00<br>○ https://instagram.com/saerok_official/<br>○ 010-9010-5354<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 사회적경제기업제품 복합전시 판매장
+○ 10:00-19:00
+○ https://instagram.com/saerok_official/
+○ 010-9010-5354
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.058737,37.6698296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_무포장가게새록 되살림 1호점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 10:00-20:00, 토,일 10:00-18:00<br>○ https://instagram.com/saerok_official/<br>○ 02-930-0369<br> <br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 10:00-20:00, 토,일 10:00-18:00
+○ https://instagram.com/saerok_official/
+○ 02-930-0369
+ </value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0611517,37.6552101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_무포장가게새록 되살림 2호점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 11:00-19:00, 토 12:00-18:00<br>○ https://instagram.com/saerok_official/<br>○ 02-930-6202<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 11:00-19:00, 토 12:00-18:00
+○ https://instagram.com/saerok_official/
+○ 02-930-6202
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0793058,37.6705563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_무포장가게새록 마을과마디</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 화-토 10:00-20:00, 일 12:00-21:00<br>○ https://instagram.com/saerok_official/<br>○ 02-977-1318 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 화-토 10:00-20:00, 일 12:00-21:00
+○ https://instagram.com/saerok_official/
+○ 02-977-1318 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0830557,37.6245739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_무포장가게새록 행복중심생협(공릉점)</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 친환경 유기농 전문 생협<br>○ 월-금 10:00-21:00, 토,일 10:00-18:00<br>○ https://instagram.com/saerok_official/<br>○ 02-975-7145<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 친환경 유기농 전문 생협
+○ 월-금 10:00-21:00, 토,일 10:00-18:00
+○ https://instagram.com/saerok_official/
+○ 02-975-7145
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0808212,37.6233973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_무포장가게새록 행복중심생협(중계점)</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 친환경 유기농 전문 생협<br>○ 월-금 09:00-20:00, 토 09:00-18:00, 일 10:00-18:00<br>○ https://instagram.com/saerok_official/<br> ○ 02-934-7999<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 친환경 유기농 전문 생협
+○ 월-금 09:00-20:00, 토 09:00-18:00, 일 10:00-18:00
+○ https://instagram.com/saerok_official/
+ ○ 02-934-7999
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0744872,37.6485488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_보탬상점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-토 11:00-20:00, 일 휴무<br>○ https://www.instagra.com/botaemsangjeom/<br>○ 010-2175-2026<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-토 11:00-20:00, 일 휴무
+○ https://www.instagra.com/botaemsangjeom/
+○ 010-2175-2026
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0818503,37.6007893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_보틀라운지</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 채우장 + 카페<br>○ 10:00-21:00, 월 휴무<br>○ https://www.instagram.com/bottlelounge_/<br>○ 02-3144-0703 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 채우장 + 카페
+○ 10:00-21:00, 월 휴무
+○ https://www.instagram.com/bottlelounge_/
+○ 02-3144-0703 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9289199,37.5753511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_보틀앤스쿱</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 그로서리숍<br>○ 화-토 11:00-20:00 일 15:00-19:00 월 휴무<br>    (매달 첫번째 일요일 휴무)<br>○ https://www.instagram.com/replanet.kr/<br>○ 1단지 상가<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 그로서리숍
+○ 화-토 11:00-20:00 일 15:00-19:00 월 휴무
+    (매달 첫번째 일요일 휴무)
+○ https://www.instagram.com/replanet.kr/
+○ 1단지 상가
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9454409,37.5564809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_비건카페 달냥</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 11:00-15:00<br>○ https://instagram.com/dalyang_vegancafe<br>○ 010-5069-0919<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 11:00-15:00
+○ https://instagram.com/dalyang_vegancafe
+○ 010-5069-0919
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9337532,37.6084167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_선택지</name>
+        <description><![CDATA[설명: ○ https://www.instagram.com/suntackz/<br>○ 070-4141-1724 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ https://www.instagram.com/suntackz/
+○ 070-4141-1724 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1267972,37.5351532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_세컨드페이지(in 아름다운가게 송파가락점)</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-토 10:30-19:30, 일요일,공휴일 휴무<br>○ https://www.instagram.com/2ndpage1.5/<br>○ 070-4190-2646 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-토 10:30-19:30, 일요일,공휴일 휴무
+○ https://www.instagram.com/2ndpage1.5/
+○ 070-4190-2646 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1219124,37.4948146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_순환지구</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-금 12:30~20:00, 토,일 12:30~18:30(마지막 주 일요일 휴무), 월요일 휴무<br>○ https://www.instagram.com/soonhwan_jigu/<br>○ 010-6313-4810<br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-금 12:30~20:00, 토,일 12:30~18:30(마지막 주 일요일 휴무), 월요일 휴무
+○ https://www.instagram.com/soonhwan_jigu/
+○ 010-6313-4810</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0185684,37.5947702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_아로마티카 제로스테이션</name>
+        <description><![CDATA[설명: <br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value/>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0194099,37.5207424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_안녕상점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-금 13:00-19:00, 토 11:00-15:00<br>○ https://www.instagram.com/dodammaeul/<br>○ 02-955-3330<br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 수-금 13:00-19:00, 토 11:00-15:00
+○ https://www.instagram.com/dodammaeul/
+○ 02-955-3330</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0411645,37.6618404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_알맹상점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-일 11:30-20:00, 월 휴무<br>○ http://www.instagram.com/almangmarket/<br>○ 010-2229-1027 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-일 11:30-20:00, 월 휴무
+○ http://www.instagram.com/almangmarket/
+○ 010-2229-1027 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9115985,37.5536085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_알맹상점 리스테이션</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 리스테이션 + 카페<br>○ 화-일 11:30-19:00 (브레이크타임: 15:00-16:00)<br>○ https://www.instagram.com/almang_market/<br>○ 010-2229-1027<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 리스테이션 + 카페
+○ 화-일 11:30-19:00 (브레이크타임: 15:00-16:00)
+○ https://www.instagram.com/almang_market/
+○ 010-2229-1027
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9695336,37.555042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_열매네살림</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-토 11:00-19:30, 일,월 휴무<br>○ https://www.instagram.com/fruit4_/<br>○ 010-3752-5370<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-토 11:00-19:30, 일,월 휴무
+○ https://www.instagram.com/fruit4_/
+○ 010-3752-5370
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0203693,37.6173606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_유민얼랏</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-토 13:00-18:00, 일,월 휴무<br>○ https://www.instagram.com/youmean.alot/<br>○ 010-8951-7285 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-토 13:00-18:00, 일,월 휴무
+○ https://www.instagram.com/youmean.alot/
+○ 010-8951-7285 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9174884,37.5643912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_원점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 매일 10:00-20:00, 둘째/넷째주 화 휴무<br>○ https://instagram.com//one_zeom<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 매일 10:00-20:00, 둘째/넷째주 화 휴무
+○ https://instagram.com//one_zeom
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0558292,37.5486111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_자연상점</name>
+        <description><![CDATA[설명: ○ 화-금 12:30-17:00<br>○ https://www.onlyeco.co.kr/<br>○ 02-2039-9631 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 화-금 12:30-17:00
+○ https://www.onlyeco.co.kr/
+○ 02-2039-9631 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9337532,37.6084167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_제로띵스</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-토 12:00-19:30, 일,월 휴무<br>○ https://www.instagra.com/zerothings_shop/<br>○ 02-2263-6148<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-토 12:00-19:30, 일,월 휴무
+○ https://www.instagra.com/zerothings_shop/
+○ 02-2263-6148
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9903036,37.563957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_지구랑가게</name>
+        <description><![CDATA[설명: ○ 제로웨이스트샵<br>○ 화-금 11:00-19:30, 토 14:00-19:00, 일,월 휴무<br>○ https://www.instagram.com/jigurang_shop<br>○ 010-2936-6854<br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트샵
+○ 화-금 11:00-19:30, 토 14:00-19:00, 일,월 휴무
+○ https://www.instagram.com/jigurang_shop
+○ 010-2936-6854</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0592938,37.6223528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_지구살림.터</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-토 13:00-19:30, 일,월 휴무<br>○ https://www.instagram.com/jigusallim.ter/<br>○ 010-2773-2667 <br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-토 13:00-19:30, 일,월 휴무
+○ https://www.instagram.com/jigusallim.ter/
+○ 010-2773-2667 
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8739749,37.5442706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_지구샵 상도점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 목-일 14:00-20:30<br>○ www.instagram.com/zerowaste_jigu<br>○ 070-7640-4940<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 목-일 14:00-20:30
+○ www.instagram.com/zerowaste_jigu
+○ 070-7640-4940
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9338591,37.5007395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[서울_지구샵 홈&베이커리]]></name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 비건 베이커리<br>○ 11:00-21:30<br>○ https://www.instagram.com/zerowaste_jigu/<br>○ 070-7721-5748<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 비건 베이커리
+○ 11:00-21:30
+○ https://www.instagram.com/zerowaste_jigu/
+○ 070-7721-5748
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9235021,37.5645561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_타이거릴리</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 리필스테이션<br>○ 12:00-20:00<br>○ https://tigerlily.kr/<br>○ 0507-1361-5372<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 리필스테이션
+○ 12:00-20:00
+○ https://tigerlily.kr/
+○ 0507-1361-5372
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9042254,37.5575337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_퍼스트페이지</name>
+        <description><![CDATA[설명: ○ 제로웨이스트숍 + 카페 + 책방<br>○ 월-금 10:00-18:00<br>○ https://www.instagram.com/cafe_1stpage/<br>○ 070-4190-2646<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트숍 + 카페 + 책방
+○ 월-금 10:00-18:00
+○ https://www.instagram.com/cafe_1stpage/
+○ 070-4190-2646
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1195635,37.5304482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_플라프리</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-토 12:00-19:00, 수 12:00-20:00, 일,월 휴무<br>○ https://www.instagram.com/plaafree<br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-토 12:00-19:00, 수 12:00-20:00, 일,월 휴무
+○ https://www.instagram.com/plaafree</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9821733,37.4905883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_햇빛상점</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 10:00-22:00, 일 휴무<br>○ 0507-1309-2649<br>name: 서울_햇빛상점]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 10:00-22:00, 일 휴무
+○ 0507-1309-2649</value>
+          </Data>
+          <Data name="name">
+            <value>서울_햇빛상점</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9184475,37.6045135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_허그어웨일</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 13:00-19:00 (브레이크타임: 13:00-14:00), 토 10:30-17:00, 일 휴무<br>○ https://www.instagram.com/hug_a_whale/<br>○ 02-2038-7209<br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 13:00-19:00 (브레이크타임: 13:00-14:00), 토 10:30-17:00, 일 휴무
+○ https://www.instagram.com/hug_a_whale/
+○ 02-2038-7209</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.848486,37.5526206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_ATOMOS(아토모스)</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 11:00-21:00, 매 주 수 휴무/ 둘째,넷째 화요일 휴무<br>○ https://www.instagram.com/atomos_seoul/<br>○ 02-6012-2102<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 11:00-21:00, 매 주 수 휴무/ 둘째,넷째 화요일 휴무
+○ https://www.instagram.com/atomos_seoul/
+○ 02-6012-2102
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0043789,37.5910842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_B:green(비그린)</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-토 13:00-19:00, 일-화 휴무<br>○ www.instagram.com/b.green_official<br>○ 010-9789-7148<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 수-토 13:00-19:00, 일-화 휴무
+○ www.instagram.com/b.green_official
+○ 010-9789-7148
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9272129,37.512403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_Dear.earth(디어얼스)</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-금 11:30-19:30, 토 12:00-18:00<br>○ https://www.dearearth.co.kr/<br>○ 070-4485-3388<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 수-금 11:30-19:30, 토 12:00-18:00
+○ https://www.dearearth.co.kr/
+○ 070-4485-3388
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9093869,37.5726526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>서울_Dear.eco(디어에코)</name>
+        <description><![CDATA[설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-금 11:00-19:00<br>○ http://www.instagram.com/dear.eco<br>○ 010-6384-5180<br><br>name: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-금 11:00-19:00
+○ http://www.instagram.com/dear.eco
+○ 010-6384-5180
+</value>
+          </Data>
+          <Data name="name">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.093786,37.5412316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>경기</name>
+      <Placemark>
+        <name>고양_산두로상점</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화-토 12:00-20:00, 일 14:00-18:00, 월 휴무<br>○ https://www.instagram.com/sanduro_zero/<br>○ 010-3376-7698<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7846891,37.6673461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>광명_#지구,돌봄</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화-금 13:00-19:00, 토 11:00-16:00, 일,월,공휴일 휴무<br>○ https://instagram.com/careforearth21/<br>○ 02-899-2081<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8828623,37.4615496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>광주_지구랑마을이협동조합</name>
+        <description><![CDATA[<br><br>name: 광주_지구랑마을이협동조합<br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>광주_지구랑마을이협동조합</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.2324539,37.3872355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>김포_포레슈(Foresuu)</name>
+        <description><![CDATA[○ 제로웨이스트 온라인 쇼핑몰 + 오프라인 픽업 서비스<br>○ 월-목 10:00-16:00, 금 10:00-14:00<br>○ https://www.instagram.com/foresuu/<br>○ 010-1833-3734<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6841146,37.6410906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남양주_북극곰</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 월-토 10:30-20:00, 일 휴무<br>○ https://www.instagram.com/with_polarbear/<br>○ 010-4758-1128<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.2451446,37.6535495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남양주_용기내 담아가게</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-금 10:00-19:00, 주말,공휴일 휴무<br>○ https://www.instagram.com/dam_a_store/<br>○ 010-8642-2401<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.213262,37.586117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>남양주_친한가게</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-금 11:00-20:00<br>○ https://www.instagram.com/friendlystore_namyangju/<br>○ 010-8833-2203<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.2479246,37.6551152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부천_바람가게</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 화-토 13:00-18:00<br>○ https://blog.naver.com/love0918love<br>○ 0507-1474-1548<br><br>name: 부천_바람가게<br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>부천_바람가게</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8126884,37.4885902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부천_산제로상점</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-금 11:00-18:00, 토 13:00-17:00<br>○ https://www.instagram.com/sanzeroshop/<br>○ 050-7139-2732<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7613674,37.4794421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>분당_동그라미 리필러리</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화-목: 12:30 - 17:30, 금 12:30 - 20:00, 짝수달 일요일 영업 11:00 - 17:00, 토요일 휴무, 홀수달 토요일 영업 11:00 - 17:00, 일요일 휴무<br>○ https://instagram.com/dong.grami.refillery<br>○ 010-6838-4667<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0841542,37.3901661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>성남_무해공간</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 10:00-19:00, 화 휴무<br>○ http://instagram.com/harmless_space/<br>○ 010-4761-3074<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1419647,37.4357054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>성남_솝리필스테이션</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 월,화,목,금 12:00-19:30, 토,일 12:00-18:00, 수 휴무, 마지막 주 화 휴무<br>○ www.soaprefillstation.co.kr<br>○ 010-4936-8081<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1403109,37.4663331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>성남_슬기로운생활</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화-금 11:00-20:00, 토-일 11:00-18:00, 월요일,공휴일 휴무<br>○ https://www.instagram.com/_seulki.roun.life/<br>○ 010-3199-5132<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.134612,37.4109463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>수원_가치상점</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 13:00-20:00, 토요일,공휴일 휴무<br>○ https://www.instagram.com/gacistore/<br>○ 010-9144-8781<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0198529,37.2566352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>수원_그리니</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 월-금 13:30-19:00, 토 11:00-17:00, 일 휴무<br>○ https://www.instagram.com/for._.greeny<br>○ 0507-1492-5535<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9728063,37.2975576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>수원_낯설여관 204호</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍 + 서점<br>○ 수-일 13:00-19:00, 월,화 휴무<br>○ https://www.instagram.com/ridinn.book/<br>○ 010-3000-0179<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0051562,37.292133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>수원_별에코상점</name>
+        <description><![CDATA[○ 031-8002-7900<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0405088,37.2588404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>수원_이지구</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 월-금 10:00-19:00, 토 10:00-15:00, 일요일,공휴일 휴무<br>○ https://www.instagram.com/ejigu_ecoshop/<br>○ 010-4701-0503<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9363238,37.2730703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>수원_재재상점</name>
+        <description><![CDATA[○ 제로웨이스트숍<br>○ 화-일 10:00-18:00<br>○ https://www.instagram.com/jaejaestore_zerowaste/<br>○ 010-4393-4556<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9817372,37.2629491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>수원_지구인의놀이터</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화-일 11:00-20:00, 월 휴무<br>○ https://www.instagram.com/earthy_play/<br>○ 010-3233-6302<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0144702,37.2832828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>시흥_도돌이상점</name>
+        <description><![CDATA[<br><br>name: 시흥_도돌이상점<br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>시흥_도돌이상점</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8017924,37.446027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>시흥_맹꽁이상점</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍+리필스토어<br>○ 월-금 10:00-19:00, 토 10:00-17:00, 일 휴무 (브레이크타임 13:00-14:00)<br>○ https://www.instagram.com/maeng.store/<br>○ 070-7798-1732<br><br>name: 시흥_맹꽁이상점<br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>시흥_맹꽁이상점</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.8044153,37.3950851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>오산_지구에티켓</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화-금: 10:00~19:00, 토: 10:00-17:00, 일 : 10:00-14:00, 월 휴무<br>○ http://www.instagram.com/earth_etiquette/<br>○ 010-3779-9470<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0443899,37.1843753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>용인_그린인더숲</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화-일 12:00-19:00, 월 휴무<br>○ www.instagram.com/green_inthesoop<br><br>name: 용인_그린인더숲<br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>용인_그린인더숲</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.114315,37.3198072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>용인_심플소요</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 현재 오프라인은 '자원 수거'만 진행 중<br>○ 화-토 11:00-19:00, 일,월 휴무<br>○ https://www.instagram.com/simple_soyo/<br>○ 010-2013-9385<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1125383,37.2787847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>용인_지생사 용인점</name>
+        <description><![CDATA[<br><br>name: 용인_지생사 용인점<br>description: 용인_지생사 용인점]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>용인_지생사 용인점</value>
+          </Data>
+          <Data name="description">
+            <value>용인_지생사 용인점</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0971852,37.3333508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>파주_도가게</name>
+        <description><![CDATA[<br><br>name: 파주_도가게<br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>파주_도가게</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7642655,37.7144715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>평택_초록숲상점</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 월-금 12:00-19:00, 토 12:00-17:00, 일 휴무<br>○ http://www.instagram.com/choroksoup_store/<br>○ 010-6559-0032 <br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1298881,36.9934225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>평택_vishop(비숍)</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍 + 비건 베이커리<br>○ 화-금 12:00-19:30, 토 14:00-22:00, 일,월 휴무<br>○ https://www.instagram.com/vishop_vegan/<br>○ 010-2026-6725<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.118318,36.9926912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>하남_스타필드 아로마티카</name>
+        <description><![CDATA[<br><br>name: 하남_스타필드 아로마티카<br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>하남_스타필드 아로마티카</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.2237176,37.5454148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>화성_우미상점</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화-금 10:00-18:00, 토 14:00-18:00, 일,월 휴무<br>○ https://www.instagram.com/u_mi_store/<br>○ 010-4331-5954<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9211239,37.1253529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>화성_휴앤에코</name>
+        <description><![CDATA[<br><br>name: 화성_휴앤에코<br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value>화성_휴앤에코</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0537133,37.1978824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>화성_All바른상점</name>
+        <description><![CDATA[○ 제로웨이스트 잡화 편집숍<br>○ 화,금,토 12:00-17:00, 수,목 12:00-20:00, 일,월,공휴일 휴무<br>○ https://www.instagram.com/all.bareun.shop/<br>○ 010-8787-3172<br><br>name: <br>description: ]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="name">
+            <value/>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0850804,37.1859811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>인천</name>
+      <Placemark>
+        <name>인천_귤현동제로웨이스트#</name>
+        <description><![CDATA[description: <br>이름: 인천_귤현동제로웨이스트#<br>설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-금 09:00-19:00, 주말,공휴일 휴무<br>○ https://www.instagram.com/zerowaste.gyulhyeon/<br>○ 010-9282-9694]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_귤현동제로웨이스트#</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 월-금 09:00-19:00, 주말,공휴일 휴무
+○ https://www.instagram.com/zerowaste.gyulhyeon/
+○ 010-9282-9694</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7468706,37.566895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_게으른날편집숍</name>
+        <description><![CDATA[description: <br>이름: 인천_게으른날편집숍<br>설명: ○ 제로웨이스트숍 + 라이프스타일숍<br>○ 월-금 14:00-20:00, 토 13:00-20:00, 일 휴무<br>○ https://www.instagram.com/lazyday_life/<br>○ 010-7712-7947<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_게으른날편집숍</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트숍 + 라이프스타일숍
+○ 월-금 14:00-20:00, 토 13:00-20:00, 일 휴무
+○ https://www.instagram.com/lazyday_life/
+○ 010-7712-7947
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.4931138,37.4946967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_소중한모든것</name>
+        <description><![CDATA[description: <br>이름: 인천_소중한모든것<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 12:00-19:00, 수 14:00-21:00, 토 12:00-17:00, 일요일,공휴일 휴무<br> ○https://instagram.com/sojunghan_everything/<br>○ 070-4266-0247]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_소중한모든것</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 12:00-19:00, 수 14:00-21:00, 토 12:00-17:00, 일요일,공휴일 휴무
+ ○https://instagram.com/sojunghan_everything/
+○ 070-4266-0247</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7034787,37.4437633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_슬로슬로(문화상점 동성한의원)</name>
+        <description><![CDATA[description: <br>이름: 인천_슬로슬로(문화상점 동성한의원)<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 11:30-18:30<br>○ https://www.instagram.com/sloslo__/<br>○ 010-2946-0003<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_슬로슬로(문화상점 동성한의원)</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 11:30-18:30
+○ https://www.instagram.com/sloslo__/
+○ 010-2946-0003
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6368041,37.471968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_우리동네봄날</name>
+        <description><![CDATA[description: <br>이름: 인천_우리동네봄날<br>설명: ○ 제로웨이스트숍 + 카페 + 교육서비스<br>○ 월-금 10:00-20:00, 토 10:00-18:00, 일 휴무<br>○ https://www.instagram.com/zero_bomnal/<br>○ 070-8801-1995<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_우리동네봄날</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트숍 + 카페 + 교육서비스
+○ 월-금 10:00-20:00, 토 10:00-18:00, 일 휴무
+○ https://www.instagram.com/zero_bomnal/
+○ 070-8801-1995
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6537152,37.4216322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_자연공간 숨</name>
+        <description><![CDATA[description: <br>이름: 인천_자연공간 숨<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월,화,금,토 11:00-16:00, 수 14:00-20:00, 목,일,공휴일 휴무<br>○ https://www.instagram.com/space_sum/<br>○ 010-4073-3491<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_자연공간 숨</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월,화,금,토 11:00-16:00, 수 14:00-20:00, 목,일,공휴일 휴무
+○ https://www.instagram.com/space_sum/
+○ 010-4073-3491
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6758859,37.5938829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_제자리로</name>
+        <description><![CDATA[description: <br>이름: 인천_제자리로<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-금 10:00-19:00, 토 14:00-20:00<br>○ https://www.instagram.com/jeja_riro/<br>○ 010-3367-7440<br>○ 남구 -> 현 미추홀구<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_제자리로</value>
+          </Data>
+          <Data name="설명">
+            <value><![CDATA[○ 제로웨이스트 잡화 편집숍
+○ 수-금 10:00-19:00, 토 14:00-20:00
+○ https://www.instagram.com/jeja_riro/
+○ 010-3367-7440
+○ 남구 -> 현 미추홀구
+]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6620756,37.4379918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_지구별수호대</name>
+        <description><![CDATA[description: <br>이름: 인천_지구별수호대<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 10:00-18:00<br>○ https://www.instagram.com/g9zero/<br>○ 010-9227-5911<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_지구별수호대</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 10:00-18:00
+○ https://www.instagram.com/g9zero/
+○ 010-9227-5911
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6557777,37.5309723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_채움소</name>
+        <description><![CDATA[description: <br>이름: 인천_채움소<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 12:30-20:00, 토 12:30-17:00, 일 휴무<br>○ https://www.instagram.com/chaeum_refillshop<br>○ 010-3876-9313]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_채움소</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 12:30-20:00, 토 12:30-17:00, 일 휴무
+○ https://www.instagram.com/chaeum_refillshop
+○ 010-3876-9313</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.5585025,37.4862759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_카페 봄날 송도2점</name>
+        <description><![CDATA[description: <br>이름: 인천_카페 봄날 송도2점<br>설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-금 08:30-18:30, 토,일 휴무<br>○ 070-4219-7788<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_카페 봄날 송도2점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 월-금 08:30-18:30, 토,일 휴무
+○ 070-4219-7788
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.6397319,37.3878765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>인천_카페 봄날 연수구청점</name>
+        <description><![CDATA[description: <br>이름: 인천_카페 봄날 연수구청점<br>설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-금 09:00-18:00, 토,일 휴무<br>○ 032-816-1995<br>]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>인천_카페 봄날 연수구청점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 월-금 09:00-18:00, 토,일 휴무
+○ 032-816-1995
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.67832,37.4097894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>강원도</name>
+      <Placemark>
+        <name>강릉_내일상회</name>
+        <description><![CDATA[description: <br>이름: 강릉_내일상회<br>설명: ○ 제로웨이스트숍 + 교육서비스업<br>○ 수-토 13:00-18:00<br>○ https://www.instagram.com/tomorrow.market/<br>○ 010-2295-0507<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>강릉_내일상회</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트숍 + 교육서비스업
+○ 수-토 13:00-18:00
+○ https://www.instagram.com/tomorrow.market/
+○ 010-2295-0507
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.9050524,37.7606101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>원주_에르마나스_이너피스</name>
+        <description><![CDATA[description: <br>이름: 원주_에르마나스_이너피스<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 13:00-17:30. 토.일 휴무<br>○ www.instagram.com/hermanas__2019/<br>○ 010-6358-2317<br> <br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>원주_에르마나스_이너피스</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 13:00-17:30. 토.일 휴무
+○ www.instagram.com/hermanas__2019/
+○ 010-6358-2317
+ 
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.9428043,37.3279776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>춘천_요선당</name>
+        <description><![CDATA[description: <br>이름: 춘천_요선당<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-금 13:00-17:30, 토-월 휴무<br>○ https://www.instagram.com/yosun.dang/<br>○ 010-2758-0489<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>춘천_요선당</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-금 13:00-17:30, 토-월 휴무
+○ https://www.instagram.com/yosun.dang/
+○ 010-2758-0489
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.7264838,37.8823589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>충청도</name>
+      <Placemark>
+        <name>논산_냉이</name>
+        <description><![CDATA[description: <br>이름: 논산_냉이<br>설명: ○ 제로웨이스트 잡화 편집숍 + 비건밀 카페<br>○ 화-토 13:00-19:00, 일,월 휴무<br>○ http://instagram.com/naengi.zero/<br>○ 010-2724-1409<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>논산_냉이</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 비건밀 카페
+○ 화-토 13:00-19:00, 일,월 휴무
+○ http://instagram.com/naengi.zero/
+○ 010-2724-1409
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.0949226,36.2065077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>대전_미호동 넷제로공판장</name>
+        <description><![CDATA[description: <br>이름: 대전_미호동 넷제로공판장<br>설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 화-일 09:30-18:00, 월요일,공휴일 휴무<br>○ https://www.instagram.com/miho_haeyou/<br>○ 010-2247-9397<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>대전_미호동 넷제로공판장</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 화-일 09:30-18:00, 월요일,공휴일 휴무
+○ https://www.instagram.com/miho_haeyou/
+○ 010-2247-9397
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.4682539,36.4663545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>대전_은영상점</name>
+        <description><![CDATA[description: <br>이름: 대전_은영상점<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-토 13:00-20:00, 일,월 휴무<br>○ https://www.instagram.com/eunyoung_store/<br>○ 010-4414-9475<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>대전_은영상점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-토 13:00-20:00, 일,월 휴무
+○ https://www.instagram.com/eunyoung_store/
+○ 010-4414-9475
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.351235,36.3607471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>천안_푸른별상점</name>
+        <description><![CDATA[description: <br>이름: 천안_푸른별상점<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-토 11:00-19:00, 일 휴무<br>○ https://www.instagram.com/pureun_byul/<br>○ 010-2694-3655<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>천안_푸른별상점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-토 11:00-19:00, 일 휴무
+○ https://www.instagram.com/pureun_byul/
+○ 010-2694-3655
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1424459,36.779985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>천안_호두구판장</name>
+        <description><![CDATA[description: <br>이름: 천안_호두구판장<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 토,일 11:00-17:00<br>○ https://www.instagram.com/hodoo9panjang/<br>○ 0507-1396-8528<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>천안_호두구판장</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 토,일 11:00-17:00
+○ https://www.instagram.com/hodoo9panjang/
+○ 0507-1396-8528
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.1321242,36.8215447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>태안_마카네이처</name>
+        <description><![CDATA[description: <br>이름: 태안_마카네이처<br>설명: ○ 제로웨이스트 잡화 편집숍 + 제조<br>○ 월-금 09:00-19:00, 토,일,공휴일 휴무<br>○ https://smartstore.naver.com/makanature/<br>○ 041-673-0455<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>태안_마카네이처</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 제조
+○ 월-금 09:00-19:00, 토,일,공휴일 휴무
+○ https://smartstore.naver.com/makanature/
+○ 041-673-0455
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.3053938,36.7477539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>청주_동네마당</name>
+        <description><![CDATA[description: <br>이름: 청주_동네마당<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-토 11:00-19:00<br>○ https://www.instagram.com/madang_zero/<br>○ 010-5091-1907<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>청주_동네마당</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-토 11:00-19:00
+○ https://www.instagram.com/madang_zero/
+○ 010-5091-1907
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.4227825,36.6322003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>청주_싱글룸</name>
+        <description><![CDATA[description: <br>이름: 청주_싱글룸<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-일 12:00-21:00, 일 휴무<br>○ https://www.instagram.com/singleroom_official_/<br>○ 043-293-2581<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>청주_싱글룸</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-일 12:00-21:00, 일 휴무
+○ https://www.instagram.com/singleroom_official_/
+○ 043-293-2581
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.5123095,36.6247914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>청주_불편한가게</name>
+        <description><![CDATA[description: <br>이름: 청주_불편한가게<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 금-수 13:00-20:00, 목 휴무<br>○ https://www.instagram.com/inconvenient_store/<br>○ 010-5051-1731<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>청주_불편한가게</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 금-수 13:00-20:00, 목 휴무
+○ https://www.instagram.com/inconvenient_store/
+○ 010-5051-1731
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.4565704,36.6334407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>경상도</name>
+      <Placemark>
+        <name>경주_숲을공방</name>
+        <description><![CDATA[description: <br>이름: 경주_숲을공방<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-일 11:00-19:00, 월,화 휴무<br>○ https://www.instagram.com/soopeul_/<br>○ 010-7290-2896<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>경주_숲을공방</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 수-일 11:00-19:00, 월,화 휴무
+○ https://www.instagram.com/soopeul_/
+○ 010-7290-2896
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.2220091,35.8592657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>구미_초록별상점</name>
+        <description><![CDATA[description: <br>이름: 구미_초록별상점<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-토 13:30-18:00<br>○ https://www.instagra.com/ecosome_official/<br>○ 010-2025-1161<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>구미_초록별상점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-토 13:30-18:00
+○ https://www.instagra.com/ecosome_official/
+○ 010-2025-1161
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.4471294,36.0935162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>김천_들담</name>
+        <description><![CDATA[description: <br>이름: 김천_들담<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 11:00-16:00, 토 10:00-14:00, 일요일,공휴일 휴무<br>○ https://www.instagram.com/deuldam/<br>○ 010-9781-7745<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>김천_들담</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 11:00-16:00, 토 10:00-14:00, 일요일,공휴일 휴무
+○ https://www.instagram.com/deuldam/
+○ 010-9781-7745
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.1174741,36.1178373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>김해_오늘가게</name>
+        <description><![CDATA[description: <br>이름: 김해_오늘가게<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-금 13:00-16:00<br>○ http://instagram.com/o.neul.shop /<br>○ 010-4515-1610<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>김해_오늘가게</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-금 13:00-16:00
+○ http://instagram.com/o.neul.shop /
+○ 010-4515-1610
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.859051,35.237554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>김해_안녕지구야상점</name>
+        <description><![CDATA[description: <br>이름: 김해_안녕지구야상점<br>설명: ○ 제로웨이스트숍/리필스테이션<br>○ 월-금 13:00-19:00, 토 13:00-17:00 일 휴무<br>○ www.instagram.com/hi_earth_store<br>○ 0507-1375-6145]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>김해_안녕지구야상점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트숍/리필스테이션
+○ 월-금 13:00-19:00, 토 13:00-17:00 일 휴무
+○ www.instagram.com/hi_earth_store
+○ 0507-1375-6145</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.8020861,35.1759257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>대구_그린그루브</name>
+        <description><![CDATA[description: <br>이름: 대구_그린그루브<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ https://www.instagram.com/cafe_greengroove/<br>○ 010-4884-9785<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>대구_그린그루브</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ https://www.instagram.com/cafe_greengroove/
+○ 010-4884-9785
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.6098867,35.8933539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>대구_더커먼</name>
+        <description><![CDATA[description: <br>이름: 대구_더커먼<br>설명: ○ 제로웨이스트 잡화 편집숍 + 비건밀카페<br>○ 화-토 11:30-20:30 (15:00-17:00 브레이크타임), 월 휴무<br>○ https://www.instagram/com/common.for,green/<br>○ 010-5904-2065<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>대구_더커먼</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 비건밀카페
+○ 화-토 11:30-20:30 (15:00-17:00 브레이크타임), 월 휴무
+○ https://www.instagram/com/common.for,green/
+○ 010-5904-2065
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.6117302,35.8686215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>대구_제로스테이</name>
+        <description><![CDATA[description: <br>이름: 대구_제로스테이<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-토 10:00-19:30, 둘째,넷째 수요일 휴무<br>○ https://www.instagram.com/zerostay_/<br>○ 010-2228-4133<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>대구_제로스테이</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-토 10:00-19:30, 둘째,넷째 수요일 휴무
+○ https://www.instagram.com/zerostay_/
+○ 010-2228-4133
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.5223126,35.8193337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>대구_타예르셀바</name>
+        <description><![CDATA[description: <br>이름: 대구_타예르셀바<br>설명: ○ 제로웨이스트 잡화 편집숍 + 비누/화장품 공방<br>○ 월-금 11:00-19:00, 토 11:00-17:00, 일요일,공휴일 휴무<br>○ https://smartstore.naver.com/tallerselva/<br>○ 070-7788-7772<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>대구_타예르셀바</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 비누/화장품 공방
+○ 월-금 11:00-19:00, 토 11:00-17:00, 일요일,공휴일 휴무
+○ https://smartstore.naver.com/tallerselva/
+○ 070-7788-7772
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.5236534,35.8133557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_광안세탁소</name>
+        <description><![CDATA[description: <br>이름: 부산_광안세탁소<br>설명: ○ 제로웨이스트 잡화 편집숍 + 친환경 빨래방<br>○ 월-금 11:00-15:00, 주말,공휴일 휴무<br>○https://www.instagram.com/gwangan_setakso/<br>○ 010-2376-3305<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_광안세탁소</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 친환경 빨래방
+○ 월-금 11:00-15:00, 주말,공휴일 휴무
+○https://www.instagram.com/gwangan_setakso/
+○ 010-2376-3305
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.1213568,35.1579133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_네모상점</name>
+        <description><![CDATA[description: <br>이름: 부산_네모상점<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-일 12:00-18:00<br>○ https://www.instagra/com/nemostore21/<br>○ 010-3931-9640<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_네모상점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 수-일 12:00-18:00
+○ https://www.instagra/com/nemostore21/
+○ 010-3931-9640
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.0943739,35.1914849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_리어스</name>
+        <description><![CDATA[description: <br>이름: 부산_리어스<br>설명: ○ 제로웨이스트 욕실용품 판매숍<br>○ 연중무휴 12:00-19:00<br>○ https://www.instagram.com/studio_re_earth/<br>○ 050-71328-7470<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_리어스</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 욕실용품 판매숍
+○ 연중무휴 12:00-19:00
+○ https://www.instagram.com/studio_re_earth/
+○ 050-71328-7470
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.1682648,35.3355991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_마플상회</name>
+        <description><![CDATA[description: <br>이름: 부산_마플상회<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 10:00-17:00<br>○ https://www.instagram.com/minus_plus_store/<br>○ 010-5187-3926<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_마플상회</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 10:00-17:00
+○ https://www.instagram.com/minus_plus_store/
+○ 010-5187-3926
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.0175506,35.2404428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_지구숲</name>
+        <description><![CDATA[description: <br>이름: 부산_지구숲<br>설명: ○ 제로웨이스트 잡화 편집숍+공정무역샾<br>○ 화-일 10:30-21:00, 월 휴무<br>º https://www.instagram.com/jigu_forest<br>○ 0507-1427-1344]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_지구숲</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍+공정무역샾
+○ 화-일 10:30-21:00, 월 휴무
+º https://www.instagram.com/jigu_forest
+○ 0507-1427-1344</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.0163057,35.2377031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_제로웨이스트 쑥(광쑥)</name>
+        <description><![CDATA[description: <br>이름: 부산_제로웨이스트 쑥(광쑥)<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 10:00-19:00, 화 휴무<br>○ https://www.instagram/com/ssuk_zerowaste/<br>○ 010-4009-7113<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_제로웨이스트 쑥(광쑥)</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 10:00-19:00, 화 휴무
+○ https://www.instagram/com/ssuk_zerowaste/
+○ 010-4009-7113
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.1053072,35.1600321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_제로웨이스트 쑥(달쑥)</name>
+        <description><![CDATA[description: <br>이름: 부산_제로웨이스트 쑥(달쑥)<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 목-토 10:00-18:00<br>○ https://www.instagram.com/ssuk_zerowaste/<br>○ 010-4009-7113<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_제로웨이스트 쑥(달쑥)</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 목-토 10:00-18:00
+○ https://www.instagram.com/ssuk_zerowaste/
+○ 010-4009-7113
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.1829707,35.162448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_천연제작소</name>
+        <description><![CDATA[description: <br>이름: 부산_천연제작소<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월,화,금,토,일 10:00-19:00, 수,목 휴무<br>º https://www.instagram.com/natural_factory2015/<br>○ 051-338-9619<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_천연제작소</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월,화,금,토,일 10:00-19:00, 수,목 휴무
+º https://www.instagram.com/natural_factory2015/
+○ 051-338-9619
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.0052664,35.2117913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>부산_simplify,simplify</name>
+        <description><![CDATA[description: <br>이름: 부산_simplify,simplify<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-목 12:00-20:00, 금-일 12:00-19:00, 월 휴무<br>○ https://www/instagram.com/simplify_zero/<br>○ 010-2512-9534<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>부산_simplify,simplify</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-목 12:00-20:00, 금-일 12:00-19:00, 월 휴무
+○ https://www/instagram.com/simplify_zero/
+○ 010-2512-9534
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.1102756,35.1423069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>안동_오롯이</name>
+        <description><![CDATA[description: <br>이름: 안동_오롯이<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 11:00-19:30, 둘째,넷째 일요일 휴무<br>○ https://www.instagram.com/oro.si_shop/<br>○ 050-71406-4626<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>안동_오롯이</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 11:00-19:30, 둘째,넷째 일요일 휴무
+○ https://www.instagram.com/oro.si_shop/
+○ 050-71406-4626
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.6994711,36.5664656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>양산_천연제작소</name>
+        <description><![CDATA[description: <br>이름: 양산_천연제작소<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-일 09:00-17:00<br>○ https://www.instagram.com/natural_factory2015/<br>○ 070-8691-3200<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>양산_천연제작소</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 수-일 09:00-17:00
+○ https://www.instagram.com/natural_factory2015/
+○ 070-8691-3200
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.999637,35.318775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>울산_어반그린</name>
+        <description><![CDATA[description: <br>이름: 울산_어반그린<br>설명: ○ 제로웨이스트 잡화 편집숍 + 자연소재 생활소품 공방<br>○ 월-목 10:30-20:00, 금-일 10:30-20:30<br>○ https://www.instagram.com/urban_green_live/<br>○ 010-8907-6890<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>울산_어반그린</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 자연소재 생활소품 공방
+○ 월-목 10:30-20:00, 금-일 10:30-20:30
+○ https://www.instagram.com/urban_green_live/
+○ 010-8907-6890
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.3382442,35.5383725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>울산_지구맑음</name>
+        <description><![CDATA[description: <br>이름: 울산_지구맑음<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-토 11:00-18:00<br>○ https://www.instagram.com/jigumalgeu._.m/<br>○ 010-2507-1421<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>울산_지구맑음</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-토 11:00-18:00
+○ https://www.instagram.com/jigumalgeu._.m/
+○ 010-2507-1421
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.3385737,35.5404833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>진주_슈가카페</name>
+        <description><![CDATA[description: <br>이름: 진주_슈가카페<br>설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-토 10:00-20:00, 일 휴무 <br>○http://www.instagram.com/chouxga7612585/<br> ○ 055-761-2585<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>진주_슈가카페</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 월-토 10:00-20:00, 일 휴무 
+○http://www.instagram.com/chouxga7612585/
+ ○ 055-761-2585
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.1138042,35.1994158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>창원_마리앤하우스</name>
+        <description><![CDATA[description: <br>이름: 창원_마리앤하우스<br>설명: ○ 제로웨이스트 잡화 편집숍 + 비누공방<br>○ 월-토 14:00-21:00, 일 휴무<br>○ https://www.instagram.com/mari_n_house/<br>○ 0507-1375-6229<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>창원_마리앤하우스</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 비누공방
+○ 월-토 14:00-21:00, 일 휴무
+○ https://www.instagram.com/mari_n_house/
+○ 0507-1375-6229
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.560232,35.1846413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>창원_하루한알</name>
+        <description><![CDATA[description: <br>이름: 창원_하루한알<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 11:00-18:00, 토 10:00-15:00<br>○ https://www.instagram.com/haru.hanal/<br>○ 070-8238-8779<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>창원_하루한알</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 11:00-18:00, 토 10:00-15:00
+○ https://www.instagram.com/haru.hanal/
+○ 070-8238-8779
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.6782884,35.2301246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>통영_지속가능성을 심는 ESD 씨앗상점</name>
+        <description><![CDATA[description: <br>이름: 통영_지속가능성을 심는 ESD 씨앗상점<br>설명: ○ 제로웨이스트 잡화 편집숍 + 교육서비스업<br>○ 토 14:00-17:00<br>○ https://www.instagram.com/siatmarket/<br>○ 055-650-7414<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>통영_지속가능성을 심는 ESD 씨앗상점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 교육서비스업
+○ 토 14:00-17:00
+○ https://www.instagram.com/siatmarket/
+○ 055-650-7414
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128.4500602,34.86477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>전라도</name>
+      <Placemark>
+        <name>광주_송정마을카페이공(이로운공간)</name>
+        <description><![CDATA[description: <br>이름: 광주_송정마을카페이공(이로운공간)<br>설명: ○ 제로웨이스트 잡화 편집숍 + 비건식당 + 카페<br>○ 월-목 10:00-20:00, 금,토 11:00-14:00<br>○ https://www.instagram.com/cafe20_2roun0gan/<br>○ 062-941-7978<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>광주_송정마을카페이공(이로운공간)</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 비건식당 + 카페
+○ 월-목 10:00-20:00, 금,토 11:00-14:00
+○ https://www.instagram.com/cafe20_2roun0gan/
+○ 062-941-7978
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7981844,35.1366978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>군산_제로웨이스트 흥분색</name>
+        <description><![CDATA[description: <br>이름: 군산_제로웨이스트 흥분색<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 12:00-20:00, 화 휴무<br>○ https://www.instagram/com/m1d.zerowaste.<br>○ 010-6833-8770<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>군산_제로웨이스트 흥분색</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 12:00-20:00, 화 휴무
+○ https://www.instagram/com/m1d.zerowaste.
+○ 010-6833-8770
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7163267,35.9782803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>군산_자주적관람</name>
+        <description><![CDATA[description: <br>이름: 군산_자주적관람<br>설명: ○ 제로웨이스트숍 + 친환경 체험공방<br>○ 수-일 12:00-19:00, 월,화 휴무<br>○ http://instagram.com/jaju_gallery/<br>○ 010-4240-8508<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>군산_자주적관람</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트숍 + 친환경 체험공방
+○ 수-일 12:00-19:00, 월,화 휴무
+○ http://instagram.com/jaju_gallery/
+○ 010-4240-8508
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7077283,35.985671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>나주_선선한주방</name>
+        <description><![CDATA[description: <br>이름: 나주_선선한주방<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-일 12:00-19:00, 월요일,공휴일 휴무<br>○ https://www.instagram.com/sunsun_jubang/<br>○ 010-9191-2630<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>나주_선선한주방</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-일 12:00-19:00, 월요일,공휴일 휴무
+○ https://www.instagram.com/sunsun_jubang/
+○ 010-9191-2630
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7147105,35.0326998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>나주_지구상점</name>
+        <description><![CDATA[description: <br>이름: 나주_지구상점<br>설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 화-토 10:00-20:00, 일 14:00-20:00, 월 휴무 <br>○ https://www.instagram.com/zw_earth/<br>○ 010-4417-3783<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>나주_지구상점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 화-토 10:00-20:00, 일 14:00-20:00, 월 휴무 
+○ https://www.instagram.com/zw_earth/
+○ 010-4417-3783
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.7915831,35.0096201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>담양_달팽이가게</name>
+        <description><![CDATA[description: <br>이름: 담양_달팽이가게<br>설명: ○ 월-토 11:00-18:00, 일요일,공휴일 휴무<br>○ https://blog.naver.com/nadanarae/<br>○ 010-7175-1858<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>담양_달팽이가게</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 월-토 11:00-18:00, 일요일,공휴일 휴무
+○ https://blog.naver.com/nadanarae/
+○ 010-7175-1858
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.9319982,35.3011921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>순천_노플라스틱카페</name>
+        <description><![CDATA[description: <br>이름: 순천_노플라스틱카페<br>설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-금 09:00-18:00, 토,일 휴무<br>○ https://www.instagram.com/noplasticproject98.2/<br>○ 010-4257-1216<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>순천_노플라스틱카페</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 월-금 09:00-18:00, 토,일 휴무
+○ https://www.instagram.com/noplasticproject98.2/
+○ 010-4257-1216
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.4854295,34.9500809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>목포_소리맘씨</name>
+        <description><![CDATA[description: <br>이름: 목포_소리맘씨<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-금 11:00-17:00, 토 14:00-16:00, 월,일 휴무<br>○ https://www.instagram.com/sorimomc/<br>○ 050-71425-3760<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>목포_소리맘씨</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-금 11:00-17:00, 토 14:00-16:00, 월,일 휴무
+○ https://www.instagram.com/sorimomc/
+○ 050-71425-3760
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.4266348,34.8079348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>전주_늘미곡</name>
+        <description><![CDATA[description: <br>이름: 전주_늘미곡<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-토: 10:00~19:00, 일,월,공휴일 휴무<br>○ https://www.instagram.com/neulmigok/<br>○ 070-2420-0225]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>전주_늘미곡</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-토: 10:00~19:00, 일,월,공휴일 휴무
+○ https://www.instagram.com/neulmigok/
+○ 070-2420-0225</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.126403,35.8157844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>전주_소우주</name>
+        <description><![CDATA[description: <br>이름: 전주_소우주<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-월 12:00-19:00, 화 휴무<br>○ https://www.instagram/com/mikrokosmos7000/<br>○ 010-7913-6196<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>전주_소우주</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 수-월 12:00-19:00, 화 휴무
+○ https://www.instagram/com/mikrokosmos7000/
+○ 010-7913-6196
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.131726,35.8297779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>제주도</name>
+      <Placemark>
+        <name>제주_꽃마리 리필스토어</name>
+        <description><![CDATA[description: <br>이름: 제주_꽃마리 리필스토어<br>설명: ○ 자사제품 중심 제로웨이스트숍<br>○ 월-금 10:00-19:00, 토 10:00-15:00<br>○ https://www.instagram.com/flowermari.in/<br>○ 064-755-6883<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>제주_꽃마리 리필스토어</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 자사제품 중심 제로웨이스트숍
+○ 월-금 10:00-19:00, 토 10:00-15:00
+○ https://www.instagram.com/flowermari.in/
+○ 064-755-6883
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.4934954,33.4876271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>제주_마이아일랜드</name>
+        <description><![CDATA[description: <br>이름: 제주_마이아일랜드<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 화-금 12:00-16:00, 토,일,월 휴무<br>○ https://instagram.com/myisland_official/<br>○ 010-9897-0706<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>제주_마이아일랜드</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 화-금 12:00-16:00, 토,일,월 휴무
+○ https://instagram.com/myisland_official/
+○ 010-9897-0706
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.5283459,33.2584528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>제주_유니제로웨이스트</name>
+        <description><![CDATA[description: <br>이름: 제주_유니제로웨이스트<br>설명: ○ 제로웨이스트숍 + 교육서비스업<br>○ 화-토 10:30-16:30, 일,월 휴무<br>○ https://smartstore.naver.com/unizero/<br>○ 010-5236-9310<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>제주_유니제로웨이스트</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트숍 + 교육서비스업
+○ 화-토 10:30-16:30, 일,월 휴무
+○ https://smartstore.naver.com/unizero/
+○ 010-5236-9310
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.5445274,33.4932067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>제주_지구별가게 노형점</name>
+        <description><![CDATA[description: <br>이름: 제주_지구별가게 노형점<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 월-금 09:00-19:00, 토 10:00-17:00, 일 휴무<br>○ https://www.instagram.com/jigubyul_store/<br>○ 064-711-8291<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>제주_지구별가게 노형점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 월-금 09:00-19:00, 토 10:00-17:00, 일 휴무
+○ https://www.instagram.com/jigubyul_store/
+○ 064-711-8291
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.4753823,33.4926193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>제주_지구별가게 서호점</name>
+        <description><![CDATA[description: <br>이름: 제주_지구별가게 서호점<br>설명: ○ 제로웨이스트 잡화 편집숍 + 카페<br>○ 월-금 10:00-17:00, 토 11:00-15:00, 일 휴무<br>○ https://www.instagram.com/seoho_jigubyul/<br>○ 064-711-8291<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>제주_지구별가게 서호점</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍 + 카페
+○ 월-금 10:00-17:00, 토 11:00-15:00, 일 휴무
+○ https://www.instagram.com/seoho_jigubyul/
+○ 064-711-8291
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.5225658,33.2538068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>제주_플래닛제주</name>
+        <description><![CDATA[description: <br>이름: 제주_플래닛제주<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ https://www.instagram.com/planet_jeju_/<br>○ 064-745-7555<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>제주_플래닛제주</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ https://www.instagram.com/planet_jeju_/
+○ 064-745-7555
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.4906301,33.4901103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>제주_핸드메이드 라이프</name>
+        <description><![CDATA[description: <br>이름: 제주_핸드메이드 라이프<br>설명: ○ 제로웨이스트 잡화 편집숍<br>○ 수-월 11:00-18:00, 화 휴무<br>○ https://www.instagram.com/handmadelife79/<br>○ 010-9620-1351<br>]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="이름">
+            <value>제주_핸드메이드 라이프</value>
+          </Data>
+          <Data name="설명">
+            <value>○ 제로웨이스트 잡화 편집숍
+○ 수-월 11:00-18:00, 화 휴무
+○ https://www.instagram.com/handmadelife79/
+○ 010-9620-1351
+</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            126.2617823,33.2241084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

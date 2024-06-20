@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>지도_전국 제로웨이스트숍</name>
+    <description/>
+    <NetworkLink>
+      <name>지도_전국 제로웨이스트숍</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1G7i_5bLT3rxG4UIXIqEGUC_ccRkhPwIx]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

@@ -1,0 +1,155 @@
+/* 카테고리 연결을 위한 시도! */
+/*.App {*/
+/*  text-align: center;*/
+/*}*/
+
+/*!*.main-bg {*!*/
+/*!*  height : 300px;*!*/
+/*!*  !* . 현재 경로는 src 경로 인식 *!*!*/
+/*!*  background-image : url('./img/bg.png');*!*/
+/*!*  background-size : cover;*!*/
+/*!*  background-position : center;*!*/
+/*!*}*!*/
+
+/*.App-logo {*/
+/*  height: 40vmin;*/
+/*  pointer-events: none;*/
+/*}*/
+
+/*@media (prefers-reduced-motion: no-preference) {*/
+/*  .App-logo {*/
+/*    animation: App-logo-spin infinite 20s linear;*/
+/*  }*/
+/*}*/
+
+/*.App-header {*/
+/*  background-color: rgba(85, 253, 29, 0.4);*/
+/*  min-height: 100vh;*/
+/*  display: flex;*/
+/*  flex-direction: column;*/
+/*  align-items: center;*/
+/*  justify-content: center;*/
+/*  font-size: calc(10px + 2vmin);*/
+/*  color: #df2323;*/
+/*}*/
+
+/*.App-link {*/
+/*  color: #f3cb00;*/
+/*}*/
+
+/*@keyframes App-logo-spin {*/
+/*  from {*/
+/*    transform: rotate(0deg);*/
+/*  }*/
+/*  to {*/
+/*    transform: rotate(360deg);*/
+/*  }*/
+/*}*/
+
+/*.data_border {*/
+/*  border: 2px solid #ccc;*/
+/*  border-radius: 10px;*/
+/*  padding: 15px;*/
+/*  margin: 15px;*/
+/*  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/
+/*  transition: transform 0.2s, box-shadow 0.2s;*/
+/*}*/
+
+/*.data_border:hover {*/
+/*  transform: translateY(-10px);*/
+/*  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);*/
+/*}*/
+
+/*.data_border img {*/
+/*  width: 80%;*/
+/*  height: auto;*/
+/*  border-radius: 10px;*/
+/*}*/
+
+/*.data_border h5 {*/
+/*  margin-top: 10px;*/
+/*  font-size: 1.2em;*/
+/*  font-weight: bold;*/
+/*}*/
+
+/*.data_border p {*/
+/*  color: #666;*/
+/*}*/
+
+/* 한페이지에 전체 데이터를 불러오는 시도! */
+.App {
+  text-align: center;
+}
+
+/*.main-bg {*/
+/*  height : 300px;*/
+/*  !* . 현재 경로는 src 경로 인식 *!*/
+/*  background-image : url('./img/bg.png');*/
+/*  background-size : cover;*/
+/*  background-position : center;*/
+/*}*/
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: rgba(85, 253, 29, 0.4);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #df2323;
+}
+
+.App-link {
+  color: #f3cb00;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.data_border {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.data_border:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.data_border img {
+  width: 80%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.data_border h5 {
+  margin-top: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.data_border p {
+  color: #666;
+}
