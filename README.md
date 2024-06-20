@@ -1,3 +1,5 @@
+프로젝트 팀장 링크 (https://github.com/KangYeonbae/Project1_3)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Eco%20Recycl%20Hub!&fontAlignY=40)
 # Eco Recyle Hub(에코 리사이클 허브)
 
