@@ -321,7 +321,7 @@ https://kosis.kr/search/search.do?query=%ED%8F%90%EA%B8%B0%EB%AC%BC%C2%A0%EB%B0%
   + 공공데이터포털 한국환경공단_에어코리아_대기오염정보(https://www.data.go.kr/iim/api/selectAPIAcountView.do) api 호출
   + 측정소 위 경도 좌표 와 stationName 통합해서 station_info.csv 파일로 병합(지도 위에 데이터를 뿌리기 위함)
   + 과거데이터 3Month(최대)를 모델에 학습시켜 검색일 기준 향후 일주일 미세먼지(pm10value) 농도 예측
-  + 
+   
     
 ![미세먼지지도](./public/img/lee.gif)
 
@@ -337,8 +337,10 @@ https://kosis.kr/search/search.do?query=%ED%8F%90%EA%B8%B0%EB%AC%BC%C2%A0%EB%B0%
 
 + 게시판 기능 구현
    + 글 수정과 삭제는 본인만 가능 (버튼숨김)
-     ![image](https://github.com/LEEJIWOOE/project4/assets/153358246/58324ab4-bf08-4fe4-afd4-6699184c12ef) - 본인일때
-     ![image](https://github.com/LEEJIWOOE/project4/assets/153358246/2f64e126-74eb-43bb-a009-f896f871b410) - 본인 아닐때
+     ##### 본인일때
+     ![image](https://github.com/LEEJIWOOE/project4/assets/153358246/58324ab4-bf08-4fe4-afd4-6699184c12ef)
+     ##### 본인 아닐때
+     ![image](https://github.com/LEEJIWOOE/project4/assets/153358246/2f64e126-74eb-43bb-a009-f896f871b410)  
 
 ## 차후 개선 포인트
 + 전반적인 UI 리뉴얼
